@@ -11,4 +11,3 @@ element.forEach((a) => {line.push(a)
 console.log(line)
 return line;
 }
-}
